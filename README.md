@@ -1,6 +1,6 @@
 # Olá, eu sou Augusto 👋
 
-💻 Estudante de desenvolvimento Java  
+💻 Estudante de desenvolvimento Java , formado em Engenharia de Software.
 📚 Atualmente estudando Java e Programação Orientada a Objetos  
 🚀 Construindo projetos para evoluir como desenvolvedor
 
