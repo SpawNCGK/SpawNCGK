@@ -37,8 +37,7 @@ Tenho interesse principalmente em **desenvolvimento backend**, boas práticas de
 
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SpawNCGK&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SpawNCGK&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 🔹 **Portfólio pessoal**
 
