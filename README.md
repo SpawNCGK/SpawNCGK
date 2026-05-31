@@ -1,16 +1,19 @@
 # Olá, eu sou Augusto Cesar 👋
 
-🎓 Formado em Engenharia de Software  
-💻 Estudos atualmente focado em Java(e todo BACKEND) 
-🚀 Buscando oportunidades para atuar como Desenvolvedor de Software
-
 ---
 
 ## Sobre mim
 
-Sou formado em Engenharia de Software e atualmente estou focado no desenvolvimento de aplicações utilizando **Java** e tecnologias web.
+Sou um Engenheiro de Software Full Stack com forte atuação no backend utilizando Java e o ecossistema Spring(Boot,Data,MVC,Security). O que me diferencia é minha bagagem: trago 15 anos de experiência sólida em gestão de operações e liderança de equipes, o que me permite ir além do código e traduzir requisitos complexos de negócios em soluções de alta disponibilidade.
 
-Tenho interesse principalmente em **desenvolvimento backend**, boas práticas de programação e construção de sistemas escaláveis. Estou constantemente estudando e desenvolvendo projetos para evoluir minhas habilidades técnicas e profissionais.
+Em projetos recentes , arquitetei e desenvolvi aplicações backend do zero, com integrações SQL (PostgreSQL/MySQL) e testes automatizados com JUnit e Mockito. MInha vivência com KPIs e fluxos de trabalho, me deu visão analítica que aplico em código limpo, testável e orientado a problemas dentro de metodologias ágeis. 
+
+Estou aberto a oportunidades como Desenvolvedor , Trainee ou Analista. 
+
+Tenho interesse principalmente em **desenvolvimento backend**, boas práticas de programação e construção de sistemas escaláveis. 
+Estou constantemente estudando e desenvolvendo projetos para evoluir minhas habilidades técnicas e profissionais.
+
+
 
 ---
 
